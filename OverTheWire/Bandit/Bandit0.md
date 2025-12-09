@@ -17,4 +17,5 @@ To view the contents of the file, I used the cat command.
 Move on to [[Writeups(Old)/OverTheWire/Bandit/Bandit1]].
 
 Test 
-![](Writeups/OverTheWire/Bandit/attachments/Pasted%20image%2020251209203009.png)
+
+![](attachments/Pasted%20image%2020251209203116.png)
