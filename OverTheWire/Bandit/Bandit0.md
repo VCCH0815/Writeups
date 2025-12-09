@@ -13,9 +13,8 @@ I used ls to list out files and found a readme which should contain a password f
 
 To view the contents of the file, I used the cat command.
 
-![](Writeups/OverTheWire/Bandit/attachments/Pasted%20image%2020251209202735.png)
+![](attachments/Pasted%20image%2020251209202711.png)
 Move on to [[Writeups(Old)/OverTheWire/Bandit/Bandit1]].
 
 Test 
 
-![](attachments/Pasted%20image%2020251209203116.png)
