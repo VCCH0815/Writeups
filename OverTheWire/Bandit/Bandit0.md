@@ -12,9 +12,7 @@ ssh -p port_number user@IP
 I used ls to list out files and found a readme which should contain a password for the next level.
 
 To view the contents of the file, I used the cat command.
+![](attachments/Pasted%20image%2020251209202735.png)
 
-![](attachments/Pasted%20image%2020251209202711.png)
-Move on to [[Writeups(Old)/OverTheWire/Bandit/Bandit1]].
-
-Test 
+Move on to [Bandit1](Bandit1.md).
 
