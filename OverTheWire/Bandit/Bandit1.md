@@ -11,7 +11,7 @@ Turns out, A dashed filename is difficult to access as they can be interpreted b
 I tried using `cat -- -` as `--` indicates the end of command options but it does not seem to work.
 
 I tried using the `./` prefix and successfully retrieved the password. [[Bandit1](Bandit1.md)](#^R1)
-##### References
+#### References
 https://linux.die.net/abs-guide/special-chars.html ^R1
 
 Filenames beginning with "-" may cause problems when coupled with the "-" redirection operator. A script should check for this and add an appropriate prefix to such filenames, for example ./-FILENAME, $PWD/-FILENAME, or $PATHNAME/-FILENAME.
