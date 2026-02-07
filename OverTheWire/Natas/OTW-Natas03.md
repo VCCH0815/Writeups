@@ -4,7 +4,7 @@ Password: 3gqisGdR0pjm6tpkDKdIWO2hSvchLeYH
 URL:      http://natas3.natas.labs.overthewire.org
 ```
 
-![](attachments/Pasted%20image%2020260204175606.png)
+![](../../../Hacking%20Notes/attachments/Pasted%20image%2020260204175606.png)
 
 When viewing the page source, I found the following comment:
 ` No more information leaks!! Not even Google will find it this time... `
