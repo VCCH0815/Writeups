@@ -44,4 +44,3 @@ using `cd /maybehere07` and `cat .file 2` reveals the password.
 #### Find_Command
 https://dev.to/baeldung/three-simple-examples-of-the-find-command-3g66
 
-cd
