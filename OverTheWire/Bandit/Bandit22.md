@@ -4,8 +4,8 @@
 **OS:** Linux
 **Category:** Unix/Linux Basics
 **Date Completed:** YYYY-MM-DD 
-**SSH:** ssh bandit17@bandit.labs.overthewire.org -p 2220
-**Password:** x2gLTTjFwMOhQ8oWNbMN362QKxfRqGlO
+**SSH:** ssh bandit22@bandit.labs.overthewire.org -p 2220
+**Password:** tRae0UfB9v0UzbCdn9cY0gQnds9GF58Q
 
 --- 
 
