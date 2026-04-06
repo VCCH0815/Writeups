@@ -44,7 +44,7 @@ With this knowledge, I update my command
 `cat bandit7.password`
 
 # Conclusion
-Using the knowledge I learned from [Bandit5](Bandit5.md), I started by filtering from size, but it was not as useful. I then learnt more options for the `find` command such as `-group` and `-user`.
+Using the knowledge I learned from [Bandit05](Bandit05.md), I started by filtering from size, but it was not as useful. I then learnt more options for the `find` command such as `-group` and `-user`.
 # References
 #### Find
 https://manpages.ubuntu.com/manpages/noble/man1/find.1.html

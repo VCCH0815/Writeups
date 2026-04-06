@@ -14,5 +14,5 @@ I used ls to list out files and found a readme which should contain a password f
 To view the contents of the file, I used the cat command.
 ![](attachments/Pasted%20image%2020251209202735.png)
 
-Move on to [Bandit1](Bandit1.md).
+Move on to [Bandit01](Bandit01.md).
 

@@ -10,7 +10,7 @@ to overcome this, wrap the filename in quotes.
 
 With this knowledge i tried `cat "--spaces in this filename--` but unfortunately it did not work.
 
-I tried adding a `./` prefix as used at [Bandit1](Bandit1.md) and successfully retrieved the password.
+I tried adding a `./` prefix as used at [Bandit01](Bandit01.md) and successfully retrieved the password.
 
 `cat ./"--spaces in this filename--"`
 #### References

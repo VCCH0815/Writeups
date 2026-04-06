@@ -16,7 +16,7 @@ Try 'cat --help' for more information.
 
 Seems like the - in the filename is being treated as an options prefix.
 
-So I tried previous methods from [Bandit1](Bandit1.md) and [Bandit2](Bandit2.md). 
+So I tried previous methods from [Bandit01](Bandit01.md) and [Bandit02](Bandit02.md). 
 
 ![](attachments/Pasted%20image%2020260130151326.png)
 Seems like all combinations of methods do not work.
