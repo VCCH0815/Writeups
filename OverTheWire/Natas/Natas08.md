@@ -4,9 +4,9 @@
 **OS:** Linux
 **Category:** Web
 **Date Completed:** 09-Apr-2026
-**Username:** natas4
-**Password:** xcoXLmzMkoIP9D7hlgPlh9XD7OgLAe5Q
-**URL:** http://natas8.natas.labs.overthewire.org
+**Username:** natas8
+**Password:** xcoXLmzMkoIP9D7hlgPlh9XD7OgLAe5Q (deprecated)
+**URL:** http://natas8.natas.labs.overthewire.org 
 
 ---
 Upon logging in, the following is shown,
