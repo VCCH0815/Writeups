@@ -1,6 +1,6 @@
 ```
 Username: natas2
-Password: TguMNxKo1DSa1tujBLuZJnDUlCcUAPlI 
+Password: vsDOxoXyq3wckCP1ZmTZ71ngIA606odB 
 URL:      http://natas2.natas.labs.overthewire.org
 ```
 

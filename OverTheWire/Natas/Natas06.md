@@ -5,7 +5,7 @@
 **Category:** Web
 **Date Completed:** 07-Apr-2026
 **Username:** natas6
-**Password:** 0RoJwHdSKWFTYR5WuiAewauSuNaBXned
+**Password:** 7mhjtShJAcld2NYbKHEadnhEwRn2P8VT
 **URL:** http://natas6.natas.labs.overthewire.org
 
 ---

@@ -4,9 +4,9 @@
 **OS:** Linux
 **Category:** Web
 **Date Completed:** YYYY-MM-DD 
-**Username:** natas4
-**Password:** QryZXc2e0zahULdHrtHxzyYkj59kUxLQ
-**URL:** http://natas4.natas.labs.overthewire.org
+**Username:** natas10
+**Password:** EgjlkzB6E8LJyf2Obt4q7q4ewt5ZWSNv
+**URL:** http://natas10.natas.labs.overthewire.org
 
 ---
 
